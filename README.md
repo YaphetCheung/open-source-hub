@@ -6,3 +6,4 @@
 ## 教程
 
 1. [learngitbranching]<https://learngitbranching.js.org/?locale=zh_CN> 一个生动的在线git教程
+2. [深入架构原理与实现]<https://www.thebyte.com.cn/> 深入架构原理与实现
